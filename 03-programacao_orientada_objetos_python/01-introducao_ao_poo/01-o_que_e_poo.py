@@ -1,14 +1,24 @@
 """
-Escopo Global e Local.
+O que é Programação Orientada a Objetos?
 
-Python trabalha com escopo local e global, dentro do bloco da função o escopo
-é local. POrtanto alterações ali feitas em objetos imutáveis serão perdidas
-quando o método terminar de ser executado. Para usar objetos globais utilizamos
-a palvra-chave global, que informa ao interpretador que a variável que está 
-sendo manipulada no escopo local é global. 
+Paradigmas de Programação:
+    Um paradigma de programção é um estilo e programação. Não é uma linguagem
+    (Python, Java, C, etc), e sim a forma como nós solucionamos os problemas
+    através do código.
 
-Essa não é uma boa prática e deve ser evitada.
+    Exemplo:
+        Problema: Beber água.
+        Solução 1: Usar um copo para beber água.
+        Solução 2: Usar uma garrafa para beber água.
+    
+Alguns Paradigmas:
+    Imperativo ou procedural.
+    Funcional.
+    Orientado a Objetos.
+
+O paradigma de programação orientada a objetos estrutura o código abstraindo
+problemas em objetos do mundo real, facilitando o entendimento do código e 
+tornando-o mais modular e extensível. Os dois conceitos chaves para aprender
+POO são: classes e objetos.
 """
 
-# =========================================================================
-print("============ Exemplo de Função ============")
