@@ -1,8 +1,6 @@
 # 📘 Python Fundamentals — Formação DIO
 
-Este repositório reúne anotações desenvolvidas durante a formação **Python Fundamentals** da plataforma **DIO (Digital Innovation One)**.
-
-O aprendizado foi estruturado de forma progressiva, cobrindo desde os conceitos básicos da linguagem até tópicos essenciais para aplicações reais.
+Este repositório reúne anotações de códigos desenvolvidos durante a formação **Python Fundamentals** da plataforma **DIO (Digital Innovation One)**.
 
 ---
 
